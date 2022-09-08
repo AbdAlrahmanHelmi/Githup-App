@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "firstReactNative",
-    "slug": "firstReactNative",
+    "name": "Githup app",
+    "slug": "githup-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
